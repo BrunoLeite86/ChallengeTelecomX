@@ -6,7 +6,7 @@ Este projeto realiza uma análise exploratória de dados de clientes de uma empr
 
 ## 📂 Estrutura do Projeto
 
-- **Notebook:** Análise completa de dados (`churn_analysis.ipynb`)
+- **Notebook:** Análise completa de dados (`TelecomX_BR.ipynb`)
 - **Gráficos:** Visualizações salvas em arquivos de imagem (`/imagens/`)
 - **Dados:** Dataset carregado via JSON hospedado em repositório externo.
 
