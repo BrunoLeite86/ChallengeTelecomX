@@ -8,7 +8,7 @@ Este projeto realiza uma análise exploratória de dados de clientes de uma empr
 
 - **Notebook:** Análise completa de dados (`TelecomX_BR.ipynb`)
 - **Gráficos:** Visualizações salvas em html (`/Gráficos/`)
-- **Dados:** Dataset carregado via Arquivo .csv ('telecom_normalizado.csv')
+- **Dados:** Dataset carregado via Arquivo .csv (`telecom_normalizado.csv`)
 
 ---
 
